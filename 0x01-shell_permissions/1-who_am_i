@@ -1,2 +1,2 @@
 #!/bin/bash
-user="name"
+user="name" echo "$name"
